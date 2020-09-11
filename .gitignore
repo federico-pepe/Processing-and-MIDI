@@ -1,1 +1,43 @@
-/Ableton Project
+# Created by https://www.toptal.com/developers/gitignore/api/processing,macos
+# Edit at https://www.toptal.com/developers/gitignore?templates=processing,macos
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+### Processing ###
+applet
+application.linux-arm64
+application.linux-armv6hf
+application.linux32
+application.linux64
+application.windows32
+application.windows64
+application.macosx
+out
+
+# End of https://www.toptal.com/developers/gitignore/api/processing,macos

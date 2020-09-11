@@ -1,6 +1,7 @@
 // Midi Message Visualization
 // by Federico Pepe
 // http://www.federicopepe.com
+// 5th Dec 2015
 
 import themidibus.*; //Import the library
 import javax.sound.midi.MidiMessage; //Import the MidiMessage classes https://docs.oracle.com/javase/7/docs/api/javax/sound/midi/MidiMessage.html
